@@ -1,16 +1,11 @@
-# Amazon Review Sentiment Analysis 📝
+# Sentiment Analysis on Amazon Reviews
 
-A simple ML project to classify Amazon reviews as Positive 😊 or Negative 😠 using logistic regression and Streamlit.
+This project analyzes Amazon reviews to classify sentiments as positive or negative.
 
-## Positive Review Result
-(Good.jpg)
+## Sample Outputs
 
-## Negative Review Result
-(Bad.jpg)
+### Positive Review Prediction
+![Good Review](Good.jpg)
 
-## How to run
-```bash
-streamlit run app.py
-
-
-
+### Negative Review Prediction
+![Bad Review](Bad.jpg)
