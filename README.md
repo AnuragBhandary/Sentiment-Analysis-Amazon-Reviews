@@ -3,10 +3,10 @@
 A simple ML project to classify Amazon reviews as Positive 😊 or Negative 😠 using logistic regression and Streamlit.
 
 ## Positive Review Result
-/good.png
+/Good.jpg
 
 ## Negative Review Result
-/bad.png
+/Bad.jpg
 
 ## How to run
 ```bash
